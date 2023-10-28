@@ -1,2 +1,2 @@
-# pytorch_Learning_arabic
-this repo is for learning pytorch for arabiam community
+# learn machine learning using pytorch
+this repo is for learning pytorch 
