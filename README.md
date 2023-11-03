@@ -35,6 +35,7 @@ pip install torch numpy matplotlib
 ```
 
 or Use Google Collab as your Editor 🌟💻🚀
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
 ## Usage <a name = "usage"></a>
 
@@ -43,6 +44,10 @@ The main course content is organized in Jupyter notebooks. You can start explori
 ## Course Curriculum <a name = "Course Curriculum"></a>
 
 - Introduction to Deep Learning with PyTorch
+  <a target="_blank" href="https://colab.research.google.com/github/Amr-Abdellatif/learn-deep-learning-using-pytorch/blob/main/curriculum/00_starting_with_basics.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  </a>
+
 - Neural Networks and Perceptrons
 
 ## Discussions! <a name = "Discussions!"></a>
@@ -50,7 +55,3 @@ The main course content is organized in Jupyter notebooks. You can start explori
 Having trouble or questions ?
 
 Write them in discussion tab
-
-<a target="_blank" href="https://colab.research.google.com/github/Amr-Abdellatif/learn-deep-learning-using-pytorch/blob/main/curriculum/00_starting_with_basics.ipynb">
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
