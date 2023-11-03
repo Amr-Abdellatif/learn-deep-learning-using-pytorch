@@ -50,3 +50,7 @@ The main course content is organized in Jupyter notebooks. You can start explori
 Having trouble or questions ?
 
 Write them in discussion tab
+
+<a target="_blank" href="https://colab.research.google.com/github/Amr-Abdellatif/learn-deep-learning-using-pytorch/blob/main/curriculum/00_starting_with_basics.ipynb">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
