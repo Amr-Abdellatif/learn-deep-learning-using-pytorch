@@ -52,6 +52,8 @@ The main course content is organized in Jupyter notebooks. You can start explori
 
 ## Discussions! <a name = "Discussions!"></a>
 
+- **Figma file** link https://www.figma.com/file/VXuGMjXYPMYwXYQxecpWBq/getting-started-with-ML---pytorch?type=whiteboard&node-id=0-1&t=Axq7hOJhk5EDTEpU-0
+
 Having trouble or questions ?
 
 Write them in discussion tab
