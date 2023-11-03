@@ -1,4 +1,4 @@
-# PyTorch Deep Learning Course
+# PyTorch Deep Learning Course 🔮✨🧪
 
 ## Table of Contents
 
@@ -31,8 +31,10 @@ Before you begin, ensure you have the following prerequisites installed:
 You can install most of these dependencies using pip:
 
 ```
-pip install torch jupyter numpy matplotlib
+pip install torch numpy matplotlib
 ```
+
+or Use Google Collab as your Editor 🌟💻🚀
 
 ## Usage <a name = "usage"></a>
 
