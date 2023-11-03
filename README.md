@@ -4,7 +4,7 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Course Curriculum](#usage)
+- [Course Curriculum](#Course Curriculum)
 - [Contributing](../CONTRIBUTING.md)
 
 ## About <a name="about"></a>
@@ -38,9 +38,13 @@ pip install torch jupyter numpy matplotlib
 
 The main course content is organized in Jupyter notebooks. You can start exploring the course materials by opening the notebooks in the notebooks directory. Follow along with the lessons, complete assignments, and dive deep into the world of PyTorch and deep learning.
 
-## Course Curriculum <a name = "usage"></a>
+## Course Curriculum <a name = "Course Curriculum"></a>
 
 - Introduction to Deep Learning with PyTorch
 - Neural Networks and Perceptrons
 
-We hope you find this course exciting and informative. Happy learning, and may you become a PyTorch deep learning hero! 🚀🔥
+## Discussions! <a name = "Discussions!"></a>
+
+Having trouble or questions ?
+
+Write them in discussion tab
