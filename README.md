@@ -4,8 +4,9 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Course Curriculum](#Course Curriculum)
-- [Contributing](../CONTRIBUTING.md)
+- [Usage](#Usage)
+- [Course Curriculum](#Course_Curriculum)
+<!-- - [Contributing](../CONTRIBUTING.md) -->
 
 ## About <a name="about"></a>
 
