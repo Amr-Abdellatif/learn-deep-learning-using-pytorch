@@ -13,6 +13,10 @@ Welcome to the PyTorch Deep Learning Course repository! This course is designed 
 
 In this repository, you will find all the resources and materials needed to follow along with the course, including code examples, assignments, and documentation. Let's embark on this exciting journey to explore the world of deep learning with PyTorch.
 
+#### - Some knowledge is required to keep along with the course : { python , pandas , numpy , basic Algebra and matrix multiplication }
+
+Having these requirements will help alot in the course
+
 ## Getting Started <a name="getting_started"></a>
 
 These instructions will guide you through setting up your environment and getting started with the course.
