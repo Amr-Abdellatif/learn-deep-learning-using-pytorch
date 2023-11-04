@@ -35,7 +35,7 @@ pip install torch numpy matplotlib
 ```
 
 or Use Google Collab as your Editor 🌟💻🚀
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Collab"/>
 
 ## Usage <a name = "usage"></a>
 
