@@ -36,7 +36,7 @@ Before you begin, ensure you have the following prerequisites installed:
 You can install most of these dependencies using pip:
 
 ```
-pip install torch numpy matplotlib
+pip install torch torchvision numpy matplotlib
 ```
 
 or Use Google Collab as your Editor 🌟💻🚀
